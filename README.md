@@ -28,3 +28,9 @@ Code
 │  └─bert_resnet50
 └─utils
 ```
+
+Set workspace at Code/
+Use
+```python
+python -m aaa.bbb.ccc --args
+```
