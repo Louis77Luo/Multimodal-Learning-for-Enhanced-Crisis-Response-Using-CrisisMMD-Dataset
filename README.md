@@ -29,7 +29,7 @@ Code
 └─utils
 ```
 
-Set workspace at Code/
+For FileName.py files, Set workspace root at Code/  
 Use
 ```python
 python -m aaa.bbb.ccc --args
